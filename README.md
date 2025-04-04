@@ -17,8 +17,8 @@ This project demonstrates a complete data engineering pipeline for collecting, p
 
 ## 🌍 Dashboard Preview
 
-![Weather Dashboard](Dashboard.png)
-
+![Weather Dashboard](Dashboard .png)
+ 
 This interactive map shows current weather conditions (temperature, humidity, and description) for selected Colombian cities. The data is refreshed directly from a public API and loaded into Google BigQuery for easy querying and visualization.
 
 ## ⚙️ Tech Stack
